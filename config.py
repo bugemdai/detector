@@ -1,0 +1,5 @@
+PATH_VIDEO = 'source/Videos'
+PATH_AUDIO = 'source/Audio'
+PATH_CSV = 'source/CSV'
+PATH_DATASET = 'source/dataset'
+PATH_MAIN = 'source'
