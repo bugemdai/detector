@@ -1,0 +1,8 @@
+audiofile
+opensmile
+numpy
+pandas
+matplotlib
+scikit-learn
+moviepy
+seaborn
